@@ -1,0 +1,109 @@
+.css-1et7qun-MuiGrid-root{
+    margin-top: 20px !important;
+}
+
+
+.css-1wbyy0n-MuiPaper-root{
+    border-radius: 15px !important;
+    box-shadow: 0px 1px 15px 3px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%) !important;
+    height: 170px !important;
+    width: 280px !important;
+    overflow-y: auto;
+}
+
+.css-io9ceo-MuiPaper-root{
+    border-radius: 15px !important;
+    box-shadow: 0px 1px 15px 3px rgb(0 0 0 / 20%), 0px 1px 1px 0px rgb(0 0 0 / 14%), 0px 1px 3px 0px rgb(0 0 0 / 12%) !important;
+    margin-top : -25px !important;
+    overflow-y: auto;
+}
+
+.css-cveggr-MuiListItemIcon-root{
+    min-width: 30px !important;
+}
+
+.login_TF_list {
+    margin-right: 10px !important;
+    width: 40%;
+}
+
+.addTask_button_list {
+    width: 100%;
+}
+
+.button_display_list{
+    justify-content: center;
+    display: flex;
+    height: 55px;
+}
+
+.search_div{
+    display: flex !important;
+    flex-direction: row !important;
+    margin-top: 25px !important;
+    width: 79%;
+    margin-left: auto;
+    padding: 8px;
+}
+
+
+.font_list{
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 30px;
+    font-family:  Montserrat !important;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #537178;
+}
+
+.paper_div {
+    padding: 20px;
+}
+
+.task_div{
+    top: 118px;
+    left: 144px;
+    text-align: left;
+    font-family: Montserrat;
+    font-size: medium;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #537178;
+    opacity: 1;
+}
+
+.taskname_div{
+    /* UI Properties */
+    text-align: left;
+    font-family:  Montserrat !important;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #8F9EA2;
+    opacity: 1;
+}
+
+.tasklist_div{
+    text-align: left;
+    font-family:  Montserrat !important;
+    font-size: 20px;
+    font-style: normal;
+    letter-spacing: 0px;
+    color: #5285EC;
+    opacity: 1;
+}
+.textstyle_list{
+    text-decoration: line-through;
+}
+
+.paper_div> canvas{
+    box-sizing: border-box;
+    display: block;
+    height: 130px !important;
+    width: 240px ;
+    margin: auto !important;
+}

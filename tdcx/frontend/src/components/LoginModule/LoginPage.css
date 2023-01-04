@@ -1,0 +1,23 @@
+
+.login_card {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 220px;
+    top: 270px;
+    left: 600px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    padding: 25px;
+    position: absolute;
+    font-family:  Montserrat;
+    font-style: normal;
+    color: #537178;
+    letter-spacing: 0px;
+}
+
+.login_textfield {
+    width: 100%;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}

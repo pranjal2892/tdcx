@@ -1,0 +1,40 @@
+
+.newTask_card {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    height: 150px;
+    margin-top: 270px;
+    margin-left: 650px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    padding: 20px;
+}
+
+.addTask_button {
+    width: 70%;
+    margin-top: 35px !important;
+}
+
+.newTask_label{
+    font-size: 22px;
+    align-self: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 35px;
+    color: grey;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    letter-spacing: 0px;
+}
+
+.button_display{
+    justify-content: center;
+    display: flex;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root{
+    border-radius: 8px !important;
+}
+
