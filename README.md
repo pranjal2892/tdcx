@@ -15,8 +15,8 @@ Backend setup steps
  		nodemon
 		
 Database setup steps:
-	1. install mongodb comapass from below link 
-			https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-6.0.3-signed.msi
-	2. once installation is done open mongodb-compass and connect to mongodb://localhost:27017.
-	3. Once connection is establised run backend API through front end or using postman. 
+ 1. install mongodb comapass from below link 
+ 	https://fastdl.mongodb.org/windows/mongodb-windows-x86_64-6.0.3-signed.msi
+ 2. once installation is done open mongodb-compass and connect to mongodb://localhost:27017.
+ 3. Once connection is establised run backend API through front end or using postman. 
 
